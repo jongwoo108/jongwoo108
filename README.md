@@ -26,7 +26,7 @@ AWS(EC2, S3, RDS, CloudFront, Route53, IAM) · Docker · Kubernetes(EKS) · Helm
 
 **Full-stack & Tools**  
 FastAPI · React · Node.js · Nginx · MySQL  
-Figma · Notion · Jira
+Figma · Notion
 
 ---
 
