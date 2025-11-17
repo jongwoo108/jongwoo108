@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jongwoo</h1>
+<h1 align="center">Hi, I'm Jongwoo</h1>
 
 <p align="center">
 A curiosity-driven AI & Cloud Engineer who connects data, models, and products.<br/>
