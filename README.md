@@ -30,13 +30,6 @@ Figma · Notion
 
 ---
 
-###  GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jongwoo108&show_icons=true&theme=default&hide_border=true" />
-</p>
-
----
-
 ###  Connect
 <p>
   <a href="https://www.notion.so/LightHouse-202"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
