@@ -7,7 +7,7 @@ I explore how ideas become services — from modeling to cloud deployment.
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - 🧠 AI Engineer specializing in **LLM/RAG, CV·Multimodal, ML/DL**
 - ☁️ Experienced in **AWS, Docker, Kubernetes(EKS), CI/CD, Monitoring**
 - 🔍 Passionate about **research-based problem solving**  
@@ -17,7 +17,7 @@ I explore how ideas become services — from modeling to cloud deployment.
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 **AI / Modeling**  
 PyTorch · Transformers · Scikit-learn · LangChain · CLIP · VAE · RAG
 
@@ -30,14 +30,14 @@ Figma · Notion · Jira
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jongwoo108&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect
+###  Connect
 <p>
   <a href="https://www.notion.so/LightHouse-202"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <a href="mailto:jongwoo108@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
