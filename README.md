@@ -1,7 +1,7 @@
 <h1 align="center">Jongwoo, Shin</h1>
 
 <p align="center">
-A curiosity-driven AI & Cloud Engineer who connects data, models, and products.<br/>
+A curiosity-driven AI & Cloud Junior Engineer who connects data, models, and products.<br/>
 I explore how ideas become services — from modeling to cloud deployment.
 </p>
 
