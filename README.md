@@ -13,6 +13,7 @@ I explore how ideas become services — from modeling to cloud deployment.
 - 🔍 Passionate about **research-based problem solving**  
   (MatterGen, GNN, multimodal experiments)
 - 🎨 Former architecture/UX background → strong **visual & product thinking**
+- 🏆 Certifications: AWS SAA, ADsP
 - 📫 Reach me: **jongwoo108@gmail.com**
 
 ---
