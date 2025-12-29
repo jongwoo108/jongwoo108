@@ -33,7 +33,7 @@ Figma · Notion
 
 ###  Connect
 <p>
-  <a href="https://www.notion.so/LightHouse-202"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Jongwoo-Shin-9b581404227e41568e7605a308b82f33"/></a>
   <a href="mailto:jongwoo108@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
