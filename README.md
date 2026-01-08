@@ -21,36 +21,36 @@ I explore how ideas become services — from modeling to cloud deployment.
 ###  Tech Stack
 ### 🧠 AI / Modeling
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLIP-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VAE-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-%23ffffff.svg?style=flat-square&logo=pytorch&logoColor=black" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-%23ffffff.svg?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23ffffff.svg?style=flat-square&logo=scikit-learn&logoColor=black" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-%23ffffff.svg?style=flat-square&logo=langchain&logoColor=black" alt="LangChain" />
+  <img src="https://img.shields.io/badge/CLIP-%23ffffff.svg?style=flat-square&logoColor=black" alt="CLIP" />
+  <img src="https://img.shields.io/badge/VAE-%23ffffff.svg?style=flat-square&logoColor=black" alt="VAE" />
+  <img src="https://img.shields.io/badge/RAG-%23ffffff.svg?style=flat-square&logoColor=black" alt="RAG" />
 </p>
 
 ### ☁️ Cloud / DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=amazon-aws&logoColor=black" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%23ffffff.svg?style=flat-square&logo=docker&logoColor=black" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23ffffff.svg?style=flat-square&logo=kubernetes&logoColor=black" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-%23ffffff.svg?style=flat-square&logo=helm&logoColor=black" alt="Helm" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%23ffffff.svg?style=flat-square&logo=github-actions&logoColor=black" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-%23ffffff.svg?style=flat-square&logo=prometheus&logoColor=black" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-%23ffffff.svg?style=flat-square&logo=grafana&logoColor=black" alt="Grafana" />
 </p>
 
 ### 💻 Full-stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-%23ffffff.svg?style=flat-square&logo=fastapi&logoColor=black" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/react-%23ffffff.svg?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-%23ffffff.svg?style=flat-square&logo=nodedotjs&logoColor=black" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Nginx-%23ffffff.svg?style=flat-square&logo=nginx&logoColor=black" alt="Nginx" />
+  <img src="https://img.shields.io/badge/mysql-%23ffffff.svg?style=flat-square&logo=mysql&logoColor=black" alt="MySQL" />
   <br>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23ffffff.svg?style=flat-square&logo=figma&logoColor=black" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-%23ffffff.svg?style=flat-square&logo=notion&logoColor=black" alt="Notion" />
 </p>
 
 ---
