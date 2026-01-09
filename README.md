@@ -19,7 +19,7 @@ I explore how ideas become services — from modeling to cloud deployment.
 ---
 
 ###  Tech Stack
-#### AI / Modeling
+##### AI / Modeling
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23ffffff.svg?style=flat-square&logo=pytorch&logoColor=black" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Transformers-%23ffffff.svg?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
@@ -30,7 +30,7 @@ I explore how ideas become services — from modeling to cloud deployment.
   <img src="https://img.shields.io/badge/RAG-%23ffffff.svg?style=flat-square&logoColor=black" alt="RAG" />
 </p>
 
-#### Cloud / DevOps
+##### Cloud / DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23ffffff.svg?style=flat-square&logo=amazon-aws&logoColor=black" alt="AWS" />
   <img src="https://img.shields.io/badge/docker-%23ffffff.svg?style=flat-square&logo=docker&logoColor=black" alt="Docker" />
@@ -41,7 +41,7 @@ I explore how ideas become services — from modeling to cloud deployment.
   <img src="https://img.shields.io/badge/Grafana-%23ffffff.svg?style=flat-square&logo=grafana&logoColor=black" alt="Grafana" />
 </p>
 
-#### Full-stack & Tools
+##### Full-stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-%23ffffff.svg?style=flat-square&logo=fastapi&logoColor=black" alt="FastAPI" />
   <img src="https://img.shields.io/badge/react-%23ffffff.svg?style=flat-square&logo=react&logoColor=black" alt="React" />
